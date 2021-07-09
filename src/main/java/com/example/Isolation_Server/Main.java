@@ -22,7 +22,7 @@ public class Main {
 //        }
         for (Location locs: locations) {
 
-            System.out.println("Latitude: " +locs.getLatitude() + " Longitude: " + locs.getLongitude());
+            System.out.println("Latitudehej: " +locs.getLatitude() + " Longitude: " + locs.getLongitude());
 
 
         }
