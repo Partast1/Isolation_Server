@@ -1,6 +1,9 @@
 package com.example.Isolation_Server.Models;
+
+import java.io.Serializable;
+
 //POGO object for locationdata
-public class Location {
+public class Location implements Serializable {
     private double latitude;
     private double longitude;
 

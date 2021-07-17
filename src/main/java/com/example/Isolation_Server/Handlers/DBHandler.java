@@ -43,6 +43,7 @@ public class DBHandler {
 
         }
     }
+    //Retunere all Locations i listform
     public List<Location> ReadPositions(){
 
         List<Location> locations = new ArrayList<Location>();
